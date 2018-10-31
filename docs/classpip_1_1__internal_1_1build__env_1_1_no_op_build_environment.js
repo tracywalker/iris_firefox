@@ -1,0 +1,7 @@
+var classpip_1_1__internal_1_1build__env_1_1_no_op_build_environment =
+[
+    [ "__init__", "classpip_1_1__internal_1_1build__env_1_1_no_op_build_environment.html#afdf4077c03a9309f9ffbd4eaecde02f2", null ],
+    [ "__enter__", "classpip_1_1__internal_1_1build__env_1_1_no_op_build_environment.html#a5e3edcb5f50408255681ef344123b5b7", null ],
+    [ "__exit__", "classpip_1_1__internal_1_1build__env_1_1_no_op_build_environment.html#a683c0774ece129a351c27ba5cdce65fd", null ],
+    [ "cleanup", "classpip_1_1__internal_1_1build__env_1_1_no_op_build_environment.html#a5b1c56afdee653e307f70d1dc6df2d8b", null ]
+];
