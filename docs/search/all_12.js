@@ -1,5 +1,7 @@
 var searchData=
 [
+  ['recently_5fclosed_5ftabs',['RECENTLY_CLOSED_TABS',['../classiris_1_1api_1_1core_1_1firefox__ui_1_1menus_1_1_library_menu_1_1_history_option.html#ad27bb6d70919dd145759a82adf1e1e78',1,'iris::api::core::firefox_ui::menus::LibraryMenu::HistoryOption']]],
+  ['recently_5fclosed_5fwindows',['RECENTLY_CLOSED_WINDOWS',['../classiris_1_1api_1_1core_1_1firefox__ui_1_1menus_1_1_library_menu_1_1_history_option.html#a99ef0997772f93c5f8a84f0aaf8430cc',1,'iris::api::core::firefox_ui::menus::LibraryMenu::HistoryOption']]],
   ['region',['Region',['../classiris_1_1api_1_1core_1_1region_1_1_region.html',1,'iris::api::core::region']]],
   ['reload_5fbutton',['RELOAD_BUTTON',['../classiris_1_1api_1_1core_1_1firefox__ui_1_1toolbars_1_1_location_bar.html#ab5e62f0e479f5adbf138df36e842d9ad',1,'iris::api::core::firefox_ui::toolbars::LocationBar']]],
   ['reload_5fpage',['reload_page',['../namespaceiris_1_1api_1_1helpers_1_1keyboard__shortcuts.html#a4e7eaf4b0bd2bf7640a3d3cdb85fed44',1,'iris::api::helpers::keyboard_shortcuts']]],

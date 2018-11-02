@@ -26,13 +26,16 @@ var searchData=
   ['shift_5fleft',['SHIFT_LEFT',['../classiris_1_1api_1_1core_1_1key_1_1_key.html#a075307e69ec9bb90e380752b9911f149',1,'iris::api::core::key::Key']]],
   ['shift_5fright',['SHIFT_RIGHT',['../classiris_1_1api_1_1core_1_1key_1_1_key.html#a454147a8a39245dbe3da04eb78dd3a40',1,'iris::api::core::key::Key']]],
   ['show',['show',['../classiris_1_1api_1_1core_1_1region_1_1_region.html#a3d08cc250081011eafa02758afe116dd',1,'iris::api::core::region::Region']]],
+  ['show_5fall_5fhistory',['SHOW_ALL_HISTORY',['../classiris_1_1api_1_1core_1_1firefox__ui_1_1menus_1_1_library_menu_1_1_history_option.html#a5813b7ede38b06ab50b8c8f4f1343235',1,'iris::api::core::firefox_ui::menus::LibraryMenu::HistoryOption']]],
   ['show_5fhistory_5fbutton',['SHOW_HISTORY_BUTTON',['../classiris_1_1api_1_1core_1_1firefox__ui_1_1toolbars_1_1_location_bar.html#add432b3682fcf04948e14574728d0182',1,'iris::api::core::firefox_ui::toolbars::LocationBar']]],
   ['sidebarbookmarks',['SidebarBookmarks',['../classiris_1_1api_1_1core_1_1firefox__ui_1_1menus_1_1_sidebar_bookmarks.html',1,'iris::api::core::firefox_ui::menus']]],
   ['similar',['similar',['../classiris_1_1api_1_1core_1_1pattern_1_1_pattern.html#a3810101b6a3920bee331a647e6e6410a',1,'iris::api::core::pattern::Pattern']]],
   ['similarity',['similarity',['../classiris_1_1api_1_1core_1_1pattern_1_1_pattern.html#a75aa7b13962921503f7028d23e54517d',1,'iris::api::core::pattern::Pattern']]],
   ['sleep',['SLEEP',['../classiris_1_1api_1_1core_1_1key_1_1_key.html#a6e1720c58de8a0a5397a929d1d148a01',1,'iris::api::core::key::Key']]],
+  ['slow_5fmotion_5fdelay',['slow_motion_delay',['../classiris_1_1api_1_1core_1_1settings_1_1___iris_settings.html#a350bf7b3abec2e03f64a7750dd2ab0a9',1,'iris.api.core.settings._IrisSettings.slow_motion_delay(self)'],['../classiris_1_1api_1_1core_1_1settings_1_1___iris_settings.html#ab520ba7a5c67dff866b4ee181a4e3d09',1,'iris.api.core.settings._IrisSettings.slow_motion_delay(self, value)']]],
   ['space',['SPACE',['../classiris_1_1api_1_1core_1_1key_1_1_key.html#a9958501287e421d22e3a7a86f7674e99',1,'iris::api::core::key::Key']]],
   ['stop',['STOP',['../classiris_1_1api_1_1core_1_1key_1_1_key.html#a3e47d377765563dcc59f3325d3f37253',1,'iris::api::core::key::Key']]],
   ['stop_5fpage_5fload',['stop_page_load',['../namespaceiris_1_1api_1_1helpers_1_1keyboard__shortcuts.html#a8570201ceccb8841439c87fd3a068c53',1,'iris::api::helpers::keyboard_shortcuts']]],
-  ['subtract',['SUBTRACT',['../classiris_1_1api_1_1core_1_1key_1_1_key.html#a15ea9bb44560de78f8aef56322c6c499',1,'iris::api::core::key::Key']]]
+  ['subtract',['SUBTRACT',['../classiris_1_1api_1_1core_1_1key_1_1_key.html#a15ea9bb44560de78f8aef56322c6c499',1,'iris::api::core::key::Key']]],
+  ['system_5fdelay',['SYSTEM_DELAY',['../classiris_1_1api_1_1core_1_1settings_1_1___iris_settings.html#a918888d02b1e1de5277a045a6a013c47',1,'iris::api::core::settings::_IrisSettings']]]
 ];

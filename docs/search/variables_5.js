@@ -24,7 +24,6 @@ var searchData=
   ['f7',['F7',['../classiris_1_1api_1_1core_1_1key_1_1_key.html#a658424993431cef5c3c464c2d8d8b584',1,'iris::api::core::key::Key']]],
   ['f8',['F8',['../classiris_1_1api_1_1core_1_1key_1_1_key.html#a62cd4af8e5cb43af3976eceede4ec6b6',1,'iris::api::core::key::Key']]],
   ['f9',['F9',['../classiris_1_1api_1_1core_1_1key_1_1_key.html#a387f2578e17bcc3e6b0c29265e71d9d3',1,'iris::api::core::key::Key']]],
-  ['failsafe',['FAILSAFE',['../namespaceiris_1_1api_1_1core_1_1region.html#ad38384bf35de8883f49c828c588cf396',1,'iris::api::core::region']]],
   ['final',['FINAL',['../classiris_1_1api_1_1core_1_1key_1_1_key.html#a8d4c2449a18fb28b6c3c8f84119ddc71',1,'iris::api::core::key::Key']]],
   ['firefox_5fbookmark',['FIREFOX_BOOKMARK',['../classiris_1_1api_1_1core_1_1local__web_1_1_local_web.html#ababed86ef14141540acb5dd7a9c5d1f1',1,'iris::api::core::local_web::LocalWeb']]],
   ['firefox_5fbookmark_5fsmall',['FIREFOX_BOOKMARK_SMALL',['../classiris_1_1api_1_1core_1_1local__web_1_1_local_web.html#a90ad052f0edf28f228576bc1050d4041',1,'iris::api::core::local_web::LocalWeb']]],

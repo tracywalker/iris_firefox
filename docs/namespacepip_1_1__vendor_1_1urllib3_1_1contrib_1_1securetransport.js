@@ -1,5 +1,0 @@
-var namespacepip_1_1__vendor_1_1urllib3_1_1contrib_1_1securetransport =
-[
-    [ "SecureTransportContext", "classpip_1_1__vendor_1_1urllib3_1_1contrib_1_1securetransport_1_1_secure_transport_context.html", "classpip_1_1__vendor_1_1urllib3_1_1contrib_1_1securetransport_1_1_secure_transport_context" ],
-    [ "WrappedSocket", "classpip_1_1__vendor_1_1urllib3_1_1contrib_1_1securetransport_1_1_wrapped_socket.html", "classpip_1_1__vendor_1_1urllib3_1_1contrib_1_1securetransport_1_1_wrapped_socket" ]
-];

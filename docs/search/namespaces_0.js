@@ -18,5 +18,6 @@ var searchData=
   ['platform',['platform',['../namespaceiris_1_1api_1_1core_1_1platform.html',1,'iris::api::core']]],
   ['region',['region',['../namespaceiris_1_1api_1_1core_1_1region.html',1,'iris::api::core']]],
   ['results',['results',['../namespaceiris_1_1api_1_1helpers_1_1results.html',1,'iris::api::helpers']]],
+  ['settings',['settings',['../namespaceiris_1_1api_1_1core_1_1settings.html',1,'iris::api::core']]],
   ['toolbars',['toolbars',['../namespaceiris_1_1api_1_1core_1_1firefox__ui_1_1toolbars.html',1,'iris::api::core::firefox_ui']]]
 ];

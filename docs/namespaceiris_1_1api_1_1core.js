@@ -8,5 +8,6 @@ var namespaceiris_1_1api_1_1core =
     [ "mouse", "namespaceiris_1_1api_1_1core_1_1mouse.html", "namespaceiris_1_1api_1_1core_1_1mouse" ],
     [ "pattern", "namespaceiris_1_1api_1_1core_1_1pattern.html", "namespaceiris_1_1api_1_1core_1_1pattern" ],
     [ "platform", "namespaceiris_1_1api_1_1core_1_1platform.html", "namespaceiris_1_1api_1_1core_1_1platform" ],
-    [ "region", "namespaceiris_1_1api_1_1core_1_1region.html", "namespaceiris_1_1api_1_1core_1_1region" ]
+    [ "region", "namespaceiris_1_1api_1_1core_1_1region.html", "namespaceiris_1_1api_1_1core_1_1region" ],
+    [ "settings", "namespaceiris_1_1api_1_1core_1_1settings.html", "namespaceiris_1_1api_1_1core_1_1settings" ]
 ];

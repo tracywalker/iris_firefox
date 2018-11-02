@@ -10,5 +10,6 @@ var searchData=
   ['alt_5fleft',['ALT_LEFT',['../classiris_1_1api_1_1core_1_1key_1_1_key.html#a44277e5ff9b1f02fe958a40d7674cf5f',1,'iris::api::core::key::Key']]],
   ['alt_5fright',['ALT_RIGHT',['../classiris_1_1api_1_1core_1_1key_1_1_key.html#a2d84cf65ef9cabdb16ada7aaddb4aa1b',1,'iris::api::core::key::Key']]],
   ['apps',['APPS',['../classiris_1_1api_1_1core_1_1key_1_1_key.html#a717f7262c5d34156f15a9268080bd3e9',1,'iris::api::core::key::Key']]],
-  ['at',['at',['../classiris_1_1api_1_1core_1_1mouse_1_1_mouse.html#ae9bf8725da7c8310dbf13aaecc1207cd',1,'iris::api::core::mouse::Mouse']]]
+  ['at',['at',['../classiris_1_1api_1_1core_1_1mouse_1_1_mouse.html#ae9bf8725da7c8310dbf13aaecc1207cd',1,'iris::api::core::mouse::Mouse']]],
+  ['auto_5fwait_5ftimeout',['auto_wait_timeout',['../classiris_1_1api_1_1core_1_1settings_1_1___iris_settings.html#a3325da3d40be133b17a736155cfd77fa',1,'iris.api.core.settings._IrisSettings.auto_wait_timeout(self)'],['../classiris_1_1api_1_1core_1_1settings_1_1___iris_settings.html#a8a5219f908dda753a8e6be53b75cc320',1,'iris.api.core.settings._IrisSettings.auto_wait_timeout(self, value)']]]
 ];

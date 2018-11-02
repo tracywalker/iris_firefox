@@ -2,6 +2,7 @@ var searchData=
 [
   ['caps_5flock',['CAPS_LOCK',['../classiris_1_1api_1_1core_1_1key_1_1_key.html#ab01a39774dc80cffb07cabaaaa1677c3',1,'iris::api::core::key::Key']]],
   ['clear',['CLEAR',['../classiris_1_1api_1_1core_1_1key_1_1_key.html#a0e5ae9f3ae0c57c92274bd5a4b856e89',1,'iris::api::core::key::Key']]],
+  ['clear_5frecent_5fhistory',['CLEAR_RECENT_HISTORY',['../classiris_1_1api_1_1core_1_1firefox__ui_1_1menus_1_1_library_menu_1_1_history_option.html#ac6683b9624de354fcec10b817b7c6949',1,'iris::api::core::firefox_ui::menus::LibraryMenu::HistoryOption']]],
   ['cmd',['CMD',['../classiris_1_1api_1_1core_1_1key_1_1_key.html#aa8a2f6406bca23369e7d580d148803da',1,'iris.api.core.key.Key.CMD()'],['../classiris_1_1api_1_1core_1_1key_1_1_key_modifier.html#a2900cc1fe56ab4cb38d8cf2746cb28c3',1,'iris.api.core.key.KeyModifier.CMD()']]],
   ['color_5fimage',['color_image',['../classiris_1_1api_1_1core_1_1pattern_1_1_pattern.html#af249b6c69c038ececb74957f0582baf6',1,'iris::api::core::pattern::Pattern']]],
   ['command',['COMMAND',['../classiris_1_1api_1_1core_1_1key_1_1_key.html#a9042fa42e7e61b8267f0ddc244fed459',1,'iris::api::core::key::Key']]],

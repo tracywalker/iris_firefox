@@ -15,6 +15,7 @@ var searchData=
   ['shift',['SHIFT',['../classiris_1_1api_1_1core_1_1key_1_1_key.html#ae96413901c8793b9d6f9a9c74340abf2',1,'iris.api.core.key.Key.SHIFT()'],['../classiris_1_1api_1_1core_1_1key_1_1_key_modifier.html#aa5b13b252ff5217cf607c79387aa4af5',1,'iris.api.core.key.KeyModifier.SHIFT()']]],
   ['shift_5fleft',['SHIFT_LEFT',['../classiris_1_1api_1_1core_1_1key_1_1_key.html#a075307e69ec9bb90e380752b9911f149',1,'iris::api::core::key::Key']]],
   ['shift_5fright',['SHIFT_RIGHT',['../classiris_1_1api_1_1core_1_1key_1_1_key.html#a454147a8a39245dbe3da04eb78dd3a40',1,'iris::api::core::key::Key']]],
+  ['show_5fall_5fhistory',['SHOW_ALL_HISTORY',['../classiris_1_1api_1_1core_1_1firefox__ui_1_1menus_1_1_library_menu_1_1_history_option.html#a5813b7ede38b06ab50b8c8f4f1343235',1,'iris::api::core::firefox_ui::menus::LibraryMenu::HistoryOption']]],
   ['show_5fhistory_5fbutton',['SHOW_HISTORY_BUTTON',['../classiris_1_1api_1_1core_1_1firefox__ui_1_1toolbars_1_1_location_bar.html#add432b3682fcf04948e14574728d0182',1,'iris::api::core::firefox_ui::toolbars::LocationBar']]],
   ['similarity',['similarity',['../classiris_1_1api_1_1core_1_1pattern_1_1_pattern.html#a75aa7b13962921503f7028d23e54517d',1,'iris::api::core::pattern::Pattern']]],
   ['sleep',['SLEEP',['../classiris_1_1api_1_1core_1_1key_1_1_key.html#a6e1720c58de8a0a5397a929d1d148a01',1,'iris::api::core::key::Key']]],

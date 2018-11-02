@@ -23,11 +23,10 @@ for the JavaScript code in this file
 */
 var NAVTREE =
 [
-  [ "Iris APIs", "index.html", [
+  [ "Mozilla Iris", "index.html", [
     [ "Namespace Members", "namespacemembers.html", [
       [ "All", "namespacemembers.html", null ],
-      [ "Functions", "namespacemembers_func.html", null ],
-      [ "Variables", "namespacemembers_vars.html", null ]
+      [ "Functions", "namespacemembers_func.html", null ]
     ] ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
